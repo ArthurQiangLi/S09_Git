@@ -3,5 +3,8 @@ Learned about Git in 2012, but even a decade later, I still don't quite understa
 
 
 ## How to compare two commits?
+[`How to compare any two commits?`]()
+
 
 ## 
+
