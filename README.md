@@ -6,5 +6,5 @@ Main reference file: [ProGit2024.pdf](ProGit%202nd%20Edition%20(2014).pdf)
 ## How to compare two commits?
 [`How to compare any two commits?`](./01-how-to-compare-any-two-commits/compare-any-two-commits.md)
 
-
+[`How to push to empty repo?`](./02-how-to-push-empty-repo/howto-push-empty-repo.md)
 
