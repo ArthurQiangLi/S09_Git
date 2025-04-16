@@ -12,3 +12,6 @@ Main reference file: [ProGit2024.pdf](ProGit%202nd%20Edition%20(2014).pdf)
 
 [`How to push to empty repo?`](./02-how-to-push-empty-repo/howto-push-empty-repo.md)
 
+[`How to catch up with remote repo? and set a new branch?`]()
+
+[`How to 'regrete'?`]()
