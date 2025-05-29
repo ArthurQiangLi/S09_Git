@@ -15,3 +15,5 @@ Main reference file: [ProGit2024.pdf](ProGit%202nd%20Edition%20(2014).pdf)
 [`How to catch up with remote repo? and set a new branch?`]()
 
 [`How to 'regrete'?`]()
+
+[`How to 'merge'?`]()
